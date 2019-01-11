@@ -1,0 +1,56 @@
+/**index.wxss**/
+swiper{
+  width: 100%;
+  height: 400rpx;
+}
+swiper image{
+  width: 100%;
+  height: 400rpx;
+}
+/* list-item */
+.list-item{
+  padding: 30rpx;
+}
+.pro-item{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30rpx;
+}
+.pro-logo{
+  width: 250rpx;
+  height: 200rpx;
+}
+.pro-body{
+  display: flex;
+  flex-direction: column;
+}
+.pro-title{
+  color: #212121;
+  font-size: 34rpx;
+  line-height: 1;
+  flex:1;
+}
+.pro-desc{
+  font-size: 28rpx;
+  color: #9a9a0a;
+  line-height: 1;
+}
+.pro-footer{
+  display:flex;
+}
+.btn-detail{
+  width: 170rpx;
+  height: 52rpx;
+}
+.btn-ask{
+  width: 224rpx;
+  height: 52rpx;
+  margin-left: 20rpx;
+  padding: 0;
+  line-height: 1;
+}
+.btn-ask image{
+  width: 100%;
+  height: 100%;
+
+}
