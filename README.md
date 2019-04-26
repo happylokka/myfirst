@@ -1,6 +1,6 @@
 ### vue答题小项目
 
-> 利用微信小程序原生+flex布局完成一个答题小项目，数据和慕课网https://www.imooc.com/learn/974 老师的一样
+> 利用微信小程序原生+flex布局完成一个小项目，数据和慕课网https://www.imooc.com/learn/974 老师的一样
 
 ### 说明
 
